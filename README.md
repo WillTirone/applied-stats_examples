@@ -5,3 +5,4 @@ You can find the full package [here](https://github.com/WillTirone/applied_stats
 
 ```pip install applied_stats```
 
+The Jupyter Notebook above contains examples of how to use the package.
